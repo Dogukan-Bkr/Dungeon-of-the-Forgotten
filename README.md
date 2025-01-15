@@ -1,7 +1,12 @@
-# Dungeon Adventure - 2D Procedural Dungeon Crawler
+# Dungeon of the Forgotten - 2D Procedural Dungeon Crawler
 
 ## Oyunun Amacı  
-Oyuncunun amacı, zindandaki düşmanlardan ve tehlikelerden kaçınarak tüm engelleri aşmak ve çıkış kapısına ulaşmaktır. Oyun, rastgele oluşturulan zindanlarla her seferinde farklı bir deneyim sunar. Oyuncu, hareket etme ve düşmanlardan kaçma gibi mekaniklerle zindanı keşfeder.  
+Oyuncunun amacı, zindandaki düşmanlardan ve tehlikelerden kaçınarak çıkış kapısına ulaşmaktır. Oyun, rastgele oluşturulan zindanlarla her seferinde farklı bir deneyim sunar. Oyuncu, hareket etme ve düşmanlardan kaçma gibi mekaniklerle zindanı keşfeder.  
+
+---
+
+## Game Objective  
+The player's goal is to reach the exit door while avoiding enemies and hazards in the dungeon. The game offers a unique experience every time with procedurally generated dungeons. The player explores the dungeon using movement mechanics and avoids enemies to progress.
 
 ---
 
